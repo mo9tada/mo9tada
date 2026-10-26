@@ -16,6 +16,7 @@ I build web products end to end, from the database schema and APIs to the interf
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [**SmartFinance Advisor**](https://github.com/mo9tada/smartfinance-advisor) | Market-data pipeline (bronze/silver/gold), risk KPIs, Prophet forecasts and a RAG assistant over Tunisian finance law. | Python · Flask · PostgreSQL · Angular · Gemini |
+| [**Club MC27**](https://github.com/mo9tada/MC27) | Live production site for a venue: OTP-verified reservations, events, prize wheel with PDF vouchers, push notifications. | Next.js 16 · Prisma · PostgreSQL |
 | [**DeepZoom Template Matching**](https://github.com/mo9tada/deepzoom-template-matching) | Select one symbol on a huge blueprint and find every other occurrence. Tested, containerised, CI on every push. | Next.js · FastAPI · OpenCV · Docker |
 | [**Scouts Menzel Temime**](https://github.com/mo9tada/scoutsmt) | Registration, events and admin dashboard for a real scout group, with signed admin sessions and Row Level Security. | Next.js 15 · Supabase · PostgreSQL |
 | [**Postery**](https://github.com/mo9tada/Postery-Ecommerce-Website) | Storefront for a Tunisian car-poster brand: catalogue, cart, checkout and order dashboard. | Next.js · React 19 · Supabase |
@@ -35,4 +36,4 @@ I build web products end to end, from the database schema and APIs to the interf
 
 ### Contact
 
-📫 moktadazaidi@gmail.com
+📫 moktadazaidi@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/moktada-zaidi-677b94313/) · 🌐 [moktadazaidi.me](https://www.moktadazaidi.me)
