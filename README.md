@@ -1,6 +1,6 @@
 ## Hi, I'm Moktada 👋
 
-**Full-stack software engineer** · Next.js · TypeScript · Python · based in Tunisia, open to remote roles and relocation in Europe and Canada.
+**Full-stack software engineer** · Next.js · TypeScript · Python · based in Tunisia, open to remote roles and relocations.
 
 I build web products end to end, from the database schema and APIs to the interface and the server they run on. Lately I've also been working on computer vision and data pipelines with Python.
 
