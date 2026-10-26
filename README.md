@@ -22,10 +22,10 @@ I build web products end to end, from the database schema and APIs to the interf
 
 ### Tech I use
 
-**Languages:** TypeScript, JavaScript, Python, SQL, PHP
-**Frontend:** React, Next.js, Angular, Tailwind CSS, React Native, Flutter
-**Backend & data:** Node.js, Express, FastAPI, PostgreSQL, MySQL, Supabase
-**Tooling:** Docker, GitHub Actions, Linux VPS (Coolify), Cloudflare
+- **Languages:** TypeScript, JavaScript, Python, SQL, PHP
+- **Frontend:** React, Next.js, Angular, Tailwind CSS, React Native, Flutter
+- **Backend & data:** Node.js, Express, FastAPI, PostgreSQL, MySQL, Supabase
+- **Tooling:** Docker, GitHub Actions, Linux VPS (Coolify), Cloudflare
 
 ### About me
 
