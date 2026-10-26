@@ -6,7 +6,7 @@ I build web products end to end, from the database schema and APIs to the interf
 
 ### What I've worked on
 
-- **SmartFinance Advisor** (final-year internship, Vermeg): a financial analytics platform with a Medallion-architecture ETL pipeline, Prophet-based forecasting and a RAG assistant.
+- **[SmartFinance Advisor](https://github.com/mo9tada/smartfinance-advisor)** (final-year internship, Vermeg): a financial analytics platform with a Medallion-architecture ETL pipeline, Prophet-based forecasting and a RAG assistant.
 - **Tech lead, Tamezrate** (Tunisian agri-food exporter): built and deployed the company's web platform: Next.js, Node.js, MySQL, self-hosted on a VPS with Coolify and Cloudflare.
 - **Frontend developer, VamiGRC** (VamiSec): UI work on a multi-tenant SaaS governance, risk and compliance platform.
 - **Freelance**: websites and ordering systems for local businesses.
@@ -15,6 +15,7 @@ I build web products end to end, from the database schema and APIs to the interf
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [**SmartFinance Advisor**](https://github.com/mo9tada/smartfinance-advisor) | Market-data pipeline (bronze/silver/gold), risk KPIs, Prophet forecasts and a RAG assistant over Tunisian finance law. | Python · Flask · PostgreSQL · Angular · Gemini |
 | [**DeepZoom Template Matching**](https://github.com/mo9tada/deepzoom-template-matching) | Select one symbol on a huge blueprint and find every other occurrence. Tested, containerised, CI on every push. | Next.js · FastAPI · OpenCV · Docker |
 | [**Scouts Menzel Temime**](https://github.com/mo9tada/scoutsmt) | Registration, events and admin dashboard for a real scout group, with signed admin sessions and Row Level Security. | Next.js 15 · Supabase · PostgreSQL |
 | [**Postery**](https://github.com/mo9tada/Postery-Ecommerce-Website) | Storefront for a Tunisian car-poster brand: catalogue, cart, checkout and order dashboard. | Next.js · React 19 · Supabase |
