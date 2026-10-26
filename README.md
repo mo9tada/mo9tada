@@ -2,6 +2,8 @@
 
 **Full-stack software engineer** · Next.js · TypeScript · Python · based in Tunisia, open to remote roles and relocations.
 
+🌐 [moktadazaidi.me](https://www.moktadazaidi.me) · 💼 [LinkedIn](https://www.linkedin.com/in/moktada-zaidi-677b94313/)
+
 I build web products end to end, from the database schema and APIs to the interface and the server they run on. Lately I've also been working on computer vision and data pipelines with Python.
 
 ### What I've worked on
