@@ -31,8 +31,6 @@ I build web products end to end, from the database schema and APIs to the interf
 
 - 🎓 Computer Science / Software Engineering, ISIMa (Université de Monastir)
 - 🗣️ Arabic, French, English (IELTS C1)
-- 🎬 Also a cinema student and videographer, so I care about how products look and feel
-- 🤾 14 years of competitive handball taught me to work in a team under pressure
 
 ### Contact
 
